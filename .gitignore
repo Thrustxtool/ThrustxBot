@@ -1,0 +1,9 @@
+# Exclude virtual environment
+venv/
+.env
+
+# Exclude IDE files
+
+
+# Exclude logs and temp files
+__pycache__
